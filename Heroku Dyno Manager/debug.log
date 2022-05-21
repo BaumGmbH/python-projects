@@ -1,0 +1,14 @@
+[1209/142947.351:ERROR:directory_reader_win.cc(43)] FindFirstFile: Das System kann den angegebenen Pfad nicht finden. (0x3)
+[1209/172932.862:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[1209/172932.863:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[1209/172932.863:ERROR:process_reader_win.cc(123)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[1209/172932.864:ERROR:exception_snapshot_win.cc(99)] thread ID 39148 not found in process
+[1209/172932.905:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[1209/172932.905:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[1209/172932.906:ERROR:process_reader_win.cc(123)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[1209/172932.906:ERROR:exception_snapshot_win.cc(99)] thread ID 31664 not found in process
+[1209/175916.908:ERROR:directory_reader_win.cc(43)] FindFirstFile: Das System kann den angegebenen Pfad nicht finden. (0x3)
+[1209/180613.624:ERROR:directory_reader_win.cc(43)] FindFirstFile: Das System kann den angegebenen Pfad nicht finden. (0x3)
+[1209/181138.341:ERROR:directory_reader_win.cc(43)] FindFirstFile: Das System kann den angegebenen Pfad nicht finden. (0x3)
+[1209/181155.254:ERROR:directory_reader_win.cc(43)] FindFirstFile: Das System kann den angegebenen Pfad nicht finden. (0x3)
+[1209/212304.086:ERROR:directory_reader_win.cc(43)] FindFirstFile: Das System kann den angegebenen Pfad nicht finden. (0x3)

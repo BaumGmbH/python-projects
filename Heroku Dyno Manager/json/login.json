@@ -1,0 +1,12 @@
+{
+    "email": "manuel.preibisch@gmail.com",
+    "password": "b6qPsHXCuTc43eN!",
+    "actions": {
+        "app": "among-us-discord-bot-psygamer",
+        "dyno": {
+            "name": "Worker",
+            "index": 1
+        },
+        "action": "input"
+    }
+}
